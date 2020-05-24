@@ -1,4 +1,4 @@
-Things of interest:
+# Things of interest:
 404 Write Up - The write up
 homeworkfive - training script, did not change name because of fear of messing with the tests
 training - training script, outputs LR.joblib model
